@@ -5,7 +5,8 @@ Soft wrap
 Physics, PhD
 ### Work Experience
 Data scientist @ Toyota Financial Services
--big Impact project 1!
--big impact project 2!
-a Projects
-EE
+- big Impact project 1!
+- big impact project 2!
+  
+Projects
+#### ECG Band Discovery
